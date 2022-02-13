@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 15,
-  "cssTheme": "80s Neon",
-  "theme": "obsidian"
+  "baseFontSize": 16,
+  "cssTheme": "Spectrum",
+  "theme": "obsidian",
+  "translucency": false
 }

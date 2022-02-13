@@ -1,6 +1,6 @@
 {
-  "obsidianCss": true,
-  "vimMode": false,
+  "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "legacyEditor": false,
+  "livePreview": true
 }

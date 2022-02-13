@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Sam/Продуктивность (Это не просто, но дело стоит того)\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Sam/Устройство компьютера\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    },
+    {
+      "query": "path:\"Sam/Грокаем алгоритмы\"",
+      "color": {
+        "a": 1,
+        "rgb": 5299959
+      }
+    },
+    {
+      "query": "path:\"Sam/Сети и протоколы\"",
+      "color": {
+        "a": 1,
+        "rgb": 7682002
+      }
+    },
+    {
+      "query": "path:\"Sam/Тонкое чувство пофигизма\"",
+      "color": {
+        "a": 1,
+        "rgb": 2883328
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 0.998050927381327,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.534455234801118,
-  "repelStrength": 10,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 16.1088200079819,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9048496922913316,
-  "close": true
+  "scale": 0.1479680999033468,
+  "close": false
 }
