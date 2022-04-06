@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "49e172b4d809208f",
+        "id": "4eaec45bf8c14917",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sam/How you learn is how you live/ГЛАВА 2. Я ПОЗНАЮ.md",
-            "mode": "preview",
+            "file": "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sam/How you learn is how you live/ГЛАВА 2. Я ПОЗНАЮ.md",
+                "file": "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49e172b4d809208f",
+  "active": "4eaec45bf8c14917",
   "lastOpenFiles": [
-    "Sam/How you learn is how you live/ГЛАВА 2. Я ПОЗНАЮ.md",
-    "Sam/How you learn is how you live/ГЛАВА 1. ПУТЬ ПОЗНАНИЯ.md",
-    "Untitled.md",
-    "Sam/Учебники и книги/Грокаем алгоритмы/Алгоритм k ближайших соседей.md",
-    "Sam/Учебники и книги/Грокаем алгоритмы/Алгоритм Дейкстры.md",
-    "Sam/GIT/Tags.md",
-    "Sam/GIT/Setup.md",
-    "Sam/GIT/File status.md",
-    "Sam/Math/Understanding and Using Floating Point Numbers.md",
-    "Sam/Math/Imaginary numbers/Виды чисел.md"
+    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS 6429e.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/Applied Vi b11f8.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/Applied Ac a9011.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Python Spe 2cc5e.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Python Pis deeff.md",
+    "notion/Skills e6ba7/Skills tab 5788c/NumPy 59629.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Learn Rela 94d2d.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Learn Bash b786e.md"
   ]
 }
