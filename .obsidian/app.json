@@ -2,5 +2,6 @@
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "vimMode": true
+  "vimMode": true,
+  "livePreview": false
 }

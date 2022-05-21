@@ -1,0 +1,46 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Study",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "openAtStartup": false,
+        "format": "",
+        "templatePath": "",
+        "folder": "1.Diary/Study/1.Daily"
+      },
+      "week": {
+        "enabled": true,
+        "folder": "1.Diary/Study/2.Weekly"
+      },
+      "month": {
+        "enabled": true,
+        "folder": "1.Diary/Study/3.Monthly"
+      },
+      "quarter": {},
+      "year": {},
+      "id": "Study",
+      "ctime": "2022-05-20T23:05:42+03:00"
+    },
+    {
+      "day": {
+        "enabled": true
+      },
+      "week": {
+        "enabled": true
+      },
+      "month": {
+        "enabled": true
+      },
+      "quarter": {},
+      "year": {},
+      "id": "Work",
+      "ctime": "2022-05-20T23:06:18+03:00"
+    }
+  ],
+  "enableTimelineComplication": true
+}

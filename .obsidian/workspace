@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4eaec45bf8c14917",
+        "id": "abfef1fcfeead81f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
+            "file": "main.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -19,85 +19,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7fe2f8700ac66049",
-    "type": "split",
+    "id": "ac58d7179c86e838",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1243da23c59f1061",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f135f09c250f364",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1ee7f93e5a40579",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "git",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "6fc96f2e1fa50c93",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2520f446d7a7f494",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "e060d4b1fb3eeefe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9b6a23ca59490d99",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 364.00000190734863
+    "currentTab": 0
   },
   "right": {
-    "id": "9d2d21af72fd284b",
-    "type": "split",
+    "id": "9cb6844267d74d95",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "acab71fe5e421fa5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0183380e9cdf7463",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "2c514fbc662eb103",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "main.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "5d1f0db926c37e03",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "main.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "946fa62963e3a5f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "main.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "4eaec45bf8c14917",
+  "active": "abfef1fcfeead81f",
   "lastOpenFiles": [
-    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS Flexbo 8902e.md",
-    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/CSS 6429e.md",
-    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/Applied Vi b11f8.md",
-    "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91/Courses 76102/Applied Ac a9011.md",
+    "main.md",
+    "Sam/Main.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Diving in  aa11b/Note-takin 00d9b/Week 2 b57ee.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Diving in  aa11b/Note-takin 00d9b/Week 3 8225d.md",
+    "notion/Skills e6ba7/Skills tab 5788c/Diving in  aa11b/Note-takin 00d9b/Week 1 cfbd9.md",
     "notion/Skills e6ba7/Skills tab 5788c/Responsive 7fe91.md",
     "notion/Skills e6ba7/Skills tab 5788c/Python Spe 2cc5e.md",
     "notion/Skills e6ba7/Skills tab 5788c/Python Pis deeff.md",
     "notion/Skills e6ba7/Skills tab 5788c/NumPy 59629.md",
-    "notion/Skills e6ba7/Skills tab 5788c/Learn Rela 94d2d.md",
-    "notion/Skills e6ba7/Skills tab 5788c/Learn Bash b786e.md"
+    "notion/Skills e6ba7/Skills tab 5788c/Learn Rela 94d2d.md"
   ]
 }

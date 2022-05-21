@@ -1,6 +1,12 @@
 {
+  "interfaceFontFamily": "Courier New",
+  "monospaceFontFamily": "Courier New",
+  "textFontFamily": "Courier New",
   "obsidianCss": true,
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "Inner"
 }

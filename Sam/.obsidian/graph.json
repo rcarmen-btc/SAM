@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"HardSkills/Устройство компьютера\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"SoftSkills/Продуктивность (Это не просто, но дело стоит того)\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"HardSkills/Сети и протоколы\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"HardSkills/Грокаем алгоритмы\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.998050927381327,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.534455234801118,
+  "centerStrength": 0.370614167522193,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9048496922913316,
+  "scale": 0.19947409629493396,
   "close": true
 }

@@ -1,0 +1,24 @@
+ Main
+- [yandex algo](https://practicum.yandex.ru/profile/algorithms-interview/)
+- leetcode:
+	- [Patterns (Vlad Ten)](https://seanprashad.com/leetcode-patterns/)
+	- [Arrays](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3246/)	
+- Coursera
+	- Django
+	- Algorithm Toolbo``x
+- Neirographics
+- Systematic thinking
+- PostgreSQL (freeCodeCamp)
+- PycharmEdu
+- Каллеграфия
+- Книги:
+	- [ ] Нейрографика
+	- [ ] Мышление и речь
+	- [ ] Системное мышление
+	- [ ] Unfair advantage
+	- [ ] Грокаем алгоритмы и т.д
+	- [ ] Высшая математика in phone
+	- [ ] Темы, которые нужно повторить, изучить по Python (тел.)
+	- [x] Я слышал, ты хочешь свалить в Америку(10/10)
+	- [ ] Век учись - век живи
+	

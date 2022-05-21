@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "24d2e5382190ef8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9101e703a552f19",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diary/Daily/2022-05-20.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d026cc8ee6e32f12",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f92df5b5d68033f7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "56777c938fd92357",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d31ccb03b17e1524",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f3460c391453a147",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e89a310b4cfe194a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Diary/Daily/2022-05-20.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ba5d71e50faf47b0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Diary/Daily/2022-05-20.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8e6f307a10bd618e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Diary/Daily/2022-05-20.md"
+          }
+        }
+      },
+      {
+        "id": "5b5e305a37421c30",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "c9101e703a552f19",
+  "lastOpenFiles": [
+    "Diary/Daily/2022-05-20.md",
+    "HardSkills/Languages/CPP/nullptr.md",
+    "Идеи.md",
+    "Main.md",
+    "string literal.md",
+    "SoftSkills/How you learn is how you live/ГЛАВА 1. ПУТЬ ПОЗНАНИЯ.md",
+    "SoftSkills/How you learn is how you live/ГЛАВА 2. Я ПОЗНАЮ.md",
+    "SoftSkills/How you learn is how you live/ГЛАВА 3. МОЙ СТИЛЬ ОБУЧЕНИЯ, МОЯ ЖИЗНЬ.md",
+    "Счастье.md",
+    "SoftSkills/Монах продавший феррари/Доброта и дружелюбие.md"
+  ]
+}
